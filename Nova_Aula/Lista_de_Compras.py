@@ -1,5 +1,4 @@
-# aula 
-# Listas são feitos com []
+# Lista de Compras feito com Try and Except
 
 import os
 
